@@ -25,7 +25,7 @@ SECRET_KEY = 'IG98T7g79w8g3yg8oiVY-u3i8egu3vid78go20080YFUTJH4567y2gh93d7u3vf78t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','127.0.0.1','a25-newlouslist.herokuapp.com']
+ALLOWED_HOSTS = ['localhost','127.0.0.1','a25-newlouslist.herokuapp.com','ams-practice.herokuapp.com']
 
 # Application definition
 
